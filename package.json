@@ -1,0 +1,15 @@
+{
+  "name": "com.aghcoin.coinpkg.playfabservices",
+  "version": "0.1.0-beta",
+  "displayName": "Coin PlayFab Services",
+  "description": "Integration with PlayFab services",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/AGH-Code-Industry/coinpkg",
+  "changelogUrl": "https://github.com/AGH-Code-Industry/coinpkg",
+  "licensesUrl": "https://github.com/AGH-Code-Industry/coinpkg",
+  "author": {
+    "name": "AGH Code Industry",
+    "email": "codeindustry@agh.edu.pl",
+    "url": "https://skn.agh.edu.pl/kolo/agh-code-industry-coin/"
+  }
+}
