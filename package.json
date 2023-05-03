@@ -4,9 +4,9 @@
   "displayName": "Coin PlayFab Services",
   "description": "Integration with PlayFab services",
   "unity": "2021.3",
-  "documentationUrl": "https://github.com/AGH-Code-Industry/coinpkg",
-  "changelogUrl": "https://github.com/AGH-Code-Industry/coinpkg",
-  "licensesUrl": "https://github.com/AGH-Code-Industry/coinpkg",
+  "documentationUrl": "https://github.com/aghcoin/coinpkg.playfabservices",
+  "changelogUrl": "https://github.com/aghcoin/coinpkg.playfabservices",
+  "licensesUrl": "https://github.com/aghcoin/coinpkg.playfabservices",
   "author": {
     "name": "AGH Code Industry",
     "email": "codeindustry@agh.edu.pl",
