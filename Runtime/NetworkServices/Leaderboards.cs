@@ -2,7 +2,7 @@
 using PlayFab;
 using PlayFab.ClientModels;
 
-namespace NetworkServices {
+namespace CoinPackage.NetworkServices {
     public static class Leaderboards {
         public static void FetchBestScoreLeaderboard(int maxCount,
             Action<PlayerLeaderboardEntry[]> successCallback,

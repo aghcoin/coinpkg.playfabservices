@@ -2,7 +2,7 @@
 using PlayFab;
 using PlayFab.ClientModels;
 
-namespace NetworkServices {
+namespace CoinPackage.NetworkServices {
     public static class NetworkPlayer {
         public static string Login { get; private set; }
         public static string DisplayName { get; private set; }

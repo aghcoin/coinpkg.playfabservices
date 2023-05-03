@@ -1,4 +1,4 @@
-﻿namespace NetworkServices {
+﻿namespace CoinPackage.NetworkServices {
 
     public enum NetworkServiceErrorCode {
         FailedToLogIn,

@@ -2,7 +2,7 @@
 using PlayFab;
 using PlayFab.ClientModels;
 
-namespace NetworkServices {
+namespace CoinPackage.NetworkServices {
     public static class Settings {
         private const string CurrentLeaderboardNameKey = "current_leaderboard";
         private const string CurrentLeaderboardTitleKey = "current_leaderboard_title";

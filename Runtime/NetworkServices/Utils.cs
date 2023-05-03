@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text.RegularExpressions;
 using PlayFab.ClientModels;
 
-namespace NetworkServices {
+namespace CoinPackage.NetworkServices {
     
     public static class Utils
     {

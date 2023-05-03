@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using PlayFab;
 using PlayFab.ClientModels;
 
-namespace NetworkServices {
+namespace CoinPackage.NetworkServices {
     public static class Statistics {
         public static float BestScore { get; private set; }
 
